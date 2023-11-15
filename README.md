@@ -1,2 +1,2 @@
 # react-select
-Created with CodeSandbox
+react-select drop down with all features. 
